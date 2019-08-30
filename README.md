@@ -10,7 +10,7 @@ PUDT 2110 D, CRN 4187
 
 This course is an introduction to programming, the historical and cultural context of software in art and design, and the applications of “creative code” in a studio environment. Students will learn the fundamentals of all software development using the open-source frameworks Processing or P5.js, writing programs that generate computational visuals and facilitate interactive experiences.
 
-Syllabus is [here](https://github.com/mimetaur/code-1-fall-2019/raw/master/syllabus/PUDT_2110_D_KOCH_F19.pdf)
+Find the syllabus [here](https://github.com/mimetaur/code-1-fall-2019/raw/master/syllabus/PUDT_2110_D_KOCH_F19.pdf)
 
 --------
 
