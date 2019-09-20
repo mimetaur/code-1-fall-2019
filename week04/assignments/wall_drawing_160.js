@@ -1,3 +1,5 @@
+// p5 adaptation of: https://massmoca.org/event/walldrawing160/
+
 function setup() {
     createCanvas(400, 400);
 }
