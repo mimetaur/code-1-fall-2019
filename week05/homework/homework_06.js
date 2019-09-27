@@ -19,14 +19,14 @@ function drawPlayer(px, py, psize) {
 
 function keyPressed() {
     if (keyCode == LEFT_ARROW) {
-        playerX = playerX - 4;
+        // do something
     } else if (keyCode == RIGHT_ARROW) {
-        playerX = playerX + 4;
+        // do something
     }
 
     if (keyCode == UP_ARROW) {
-        playerY = playerY - 4;
+        // do something
     } else if (keyCode == DOWN_ARROW) {
-        playerY = playerY + 4;
+        // do something
     }
 }
