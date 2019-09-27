@@ -6,8 +6,8 @@ function draw() {
     background(255);
 
     if (mouseIsPressed) {
-        drawRedCircle(width / 2, height / 2, 100, 100);
+        drawRedCircle(width / 2, height / 2, 100);
     } else {
-        drawBlueCircle(width / 2, height / 2, 100, 100);
+        drawBlueCircle(width / 2, height / 2, 100);
     }
 }
