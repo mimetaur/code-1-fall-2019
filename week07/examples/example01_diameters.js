@@ -1,4 +1,4 @@
-// example01_diameter.js
+// example01_diameters.js
 // draw 5 circles, each one of a different size
 
 let diameters = [20, 95, 65, 89, 37];
